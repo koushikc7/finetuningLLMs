@@ -1,8 +1,4 @@
----
-runme:
-  id: 01HWKEF29NKQB6EP37SEJ5XX9N
-  version: v3
----
+
 
 # finetuningLLMs
 
